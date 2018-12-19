@@ -18,8 +18,8 @@ Should run on Windows, Linux, and Mac OSX.
 
 Keyboard required.
 
-You can download the .love file [here.](https://github.com/Snaker1/LoveSnake/releases/latest)
+You can download the .love file and the Windows binary package [here.](https://github.com/Snaker1/LoveSnake/releases/latest)
 
-To run it you need to download and install love 11.2:
+To run the .love file you need to download and install love 11.2:
 
 https://love2d.org/
